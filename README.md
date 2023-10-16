@@ -22,14 +22,11 @@
 
 ## Socials
 
-<p align="center"> 
-  <a href="https://github.com/Viraj-Mathur" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" style="background-color: white;" />
-  </a> 
-  
-  <a href="https://www.linkedin.com/in/viraj-mathur-a75580233/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/viraj-mathur-a75580233/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
+
+<a href="https://github.com/Viraj-Mathur"><img src="https://media0.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" width="100"></a>
 </p>
 
 
