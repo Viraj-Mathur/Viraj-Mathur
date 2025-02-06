@@ -29,13 +29,20 @@
 <a href="https://github.com/Viraj-Mathur"><img src="https://media0.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" width="100"></a>
 </p>
 
+## 📊 GitHub Stats
 
-## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Viraj-Mathur&show_icons=true&theme=transparent" alt="Viraj-Mathur" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-Mathur&layout=compact" alt="Top Languages" height="165"/>
+</p>
 
-<b>My GitHub Stats</b>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viraj-Mathur&show_icons=true&locale=en&layout=compact" alt="Viraj-Mathur" /></p>
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Viraj-Mathur&show_icons=true&locale=en" alt="Viraj-Mathur" alt="rahulvarma5297" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viraj-mathur" alt="Viraj-Mathur" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=viraj-mathur&theme=transparent" alt="Viraj-Mathur" alt="GitHub Streak" />
+</p>
+
+
+
+
 
 ## Contact Me
 
