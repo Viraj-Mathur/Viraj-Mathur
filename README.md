@@ -35,7 +35,7 @@
 <b>My GitHub Stats</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viraj-Mathur&show_icons=true&locale=en&layout=compact" alt="Viraj-Mathur" /></p>
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Viraj-Mathur&show_icons=true&locale=en" alt="Viraj-Mathur" alt="rahulvarma5297" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Viraj-Mathur" alt="rahulvarma5297" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viraj-mathur" alt="Viraj-Mathur" /></p>
 
 ## Contact Me
 
